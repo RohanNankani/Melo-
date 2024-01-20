@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Melo-/static/css/main.9a3a29ba.css",
-    "main.js": "/Melo-/static/js/main.fbf423d4.js",
-    "static/js/787.3f24dae8.chunk.js": "/Melo-/static/js/787.3f24dae8.chunk.js",
-    "index.html": "/Melo-/index.html",
-    "main.9a3a29ba.css.map": "/Melo-/static/css/main.9a3a29ba.css.map",
-    "main.fbf423d4.js.map": "/Melo-/static/js/main.fbf423d4.js.map",
-    "787.3f24dae8.chunk.js.map": "/Melo-/static/js/787.3f24dae8.chunk.js.map"
+    "main.css": "/melo/static/css/main.9a3a29ba.css",
+    "main.js": "/melo/static/js/main.c438285f.js",
+    "static/js/787.3f24dae8.chunk.js": "/melo/static/js/787.3f24dae8.chunk.js",
+    "index.html": "/melo/index.html",
+    "main.9a3a29ba.css.map": "/melo/static/css/main.9a3a29ba.css.map",
+    "main.c438285f.js.map": "/melo/static/js/main.c438285f.js.map",
+    "787.3f24dae8.chunk.js.map": "/melo/static/js/787.3f24dae8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a3a29ba.css",
-    "static/js/main.fbf423d4.js"
+    "static/js/main.c438285f.js"
   ]
 }
